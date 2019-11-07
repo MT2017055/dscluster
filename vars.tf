@@ -4,6 +4,6 @@ variable "cluster1" {
 variable "region" {
   description = "region of cluster"
 }
-variable "cluster1" {
+variable "cluster2" {
   description = "name of cluster"
 }
