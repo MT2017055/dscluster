@@ -4,3 +4,6 @@ variable "cluster1" {
 variable "region" {
   description = "region of cluster"
 }
+variable "rg" {
+  default = "default"
+}
