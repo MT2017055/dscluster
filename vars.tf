@@ -1,9 +1,3 @@
-variable "cluster1" {
-  description = "name of cluster"
-}
-variable "region" {
-  description = "region of cluster"
-}
-variable "rg" {
-  default = "default"
+variable "resources_workspace_id" {
+  description = "workspace id"
 }
